@@ -1,0 +1,6 @@
+1,John Deere,Traktor,14,John Deere 5100R traktor
+
+2,Trim,Gjødsel,144,2 i 1
+
+3,Melkedress,Arbeidsklær,12,Melkedress fra DeLaval
+
